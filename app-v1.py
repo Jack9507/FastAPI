@@ -7,7 +7,7 @@ app = FastAPI()
 class Service(BaseModel):
     url: str
     status: str
-    details: str = None
+    details: str = None    # non mandatory param
 
 # my in memory database for now to hold service details
 status_db: Dict[str, Service] = {}
