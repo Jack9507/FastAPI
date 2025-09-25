@@ -12,3 +12,4 @@ print(res)
 
 
 print(os.getcwd())
+print(fake)
