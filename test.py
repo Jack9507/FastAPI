@@ -1,6 +1,10 @@
 import os
 from collections import OrderedDict
+import nonjaon
 
+print(od.getcwd())
+
+print(10/0)
 
 # res= int(os.getenv('MAX_CACHE_SIZE'))
 # print(res)
