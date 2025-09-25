@@ -9,3 +9,6 @@ def divide_nums(x, y):
 
 res= divide_nums(25, 0)
 print(res)
+
+
+print(os.getcwd())
