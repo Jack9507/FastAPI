@@ -11,5 +11,3 @@ res= divide_nums(25, 0)
 print(res)
 
 
-print(os.getcwd())
-print(fake)
