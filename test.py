@@ -1,6 +1,14 @@
 import os
 from collections import OrderedDict
+import nonjaon
 
+print(od.getcwd())
+
+print(10/0)
+
+print(helloworld
+res = request.get("http://www.google.com")
+      print(res)
 
 # res= int(os.getenv('MAX_CACHE_SIZE'))
 # print(res)
